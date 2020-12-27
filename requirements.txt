@@ -21,8 +21,6 @@ cffi==1.12.3
 chardet==3.0.4
 Click==7.0
 cloudpickle==1.2.1
-clyent==1.2.2
-colorama==0.4.1
 comtypes==1.1.7
 conda==4.7.10
 conda-build==3.18.8
@@ -53,8 +51,6 @@ html5lib==1.0.1
 idna==2.8
 imageio==2.5.0
 imagesize==1.1.0
-imbalanced-learn==0.7.0
-imblearn==0.0
 importlib-metadata==0.17
 ipykernel==5.1.1
 ipython==7.6.1
@@ -68,12 +64,6 @@ Jinja2==2.10.1
 joblib==0.13.2
 json5==0.8.4
 jsonschema==3.0.1
-jupyter==1.0.0
-jupyter-client==5.3.1
-jupyter-console==6.0.0
-jupyter-core==4.5.0
-jupyterlab==1.0.2
-jupyterlab-server==1.0.0
 keyring==18.0.0
 kiwisolver==1.1.0
 lazy-object-proxy==1.4.1
